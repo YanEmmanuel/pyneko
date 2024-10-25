@@ -4,3 +4,4 @@ __pycache__
 build
 dist
 *.spec
+src/core/providers/infra/pt_Br/luratoons/__init__.py
